@@ -1,0 +1,12 @@
+# Level 2 - Intermediate Python Tasks Requirements
+
+# Web scraping and HTTP requests
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+
+# Additional parsing support
+html5lib>=1.1
+
+# Optional: For better HTTP handling
+urllib3>=1.26.0
