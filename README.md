@@ -6,18 +6,26 @@ This repository contains a comprehensive set of Python programming tasks organiz
 
 ```
 python_tasks/
- level1/           # Basic tasks
-    calculator.py
-    number_guessing_game.py
-    word_counter.py
- level2/           # Intermediate tasks
-    todo_list.py
-    data_scraper.py
-    api_integration.py
- level3/           # Advanced tasks
-     django_auth_app/
-     file_encryption.py
-     n_queens.py
+├── README.md
+├── level1/                   # Basic tasks
+│   ├── calculator.py
+│   ├── number_guessing_game.py
+│   ├── word_counter.py
+│   └── README.md
+├── level2/                   # Intermediate tasks
+│   ├── api_integration.py
+│   ├── data_scraper.py
+│   ├── todo_list.py
+│   ├── README.md
+│   └── requirements.txt
+└── level3/                   # Advanced tasks
+    ├── django_auth_app/
+    │   ├── README.md
+    │   └── setup_django_project.py
+    ├── file_encryption.py
+    ├── n_queens.py
+    ├── README.md
+    └── requirements.txt
 ```
 
 ## Level 1 - Basic Tasks
